@@ -7,7 +7,7 @@ sites:
     url: https://c21coasttocoast.mobi/MADONNASTEINLAGE
   - name: C21CoasttoCoast
     url: https://www.c21coasttocoast.com/
-  - name: FGBRE
+  - name: Fl Gulf Beach RE
     url: https://www.floridagulfbeachrealty.com/
   
 status-website:
@@ -16,9 +16,12 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /ws-ut
   logoUrl: https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1191858/file_manager/Branding/C21%20favicon.png
-  name: C21CoasttoCoast
-  introTitle: "**WebSite-Upptime** is the uptime monitor and status page for C21CtoC, powered entirely by GitHub."
-  introMessage: This status page which uses **real-time** data from our [GitHub repository](https://github.com/C21coastsh/ws-ut). No server required — just GitHub Actions, Issues, and Pages.
+  name: C21Coastsh
+  introTitle: "**WebSite-Upptime** is the uptime monitor and status page for C21CtoC, powered by GitHub."
+  introMessage: This status page which uses **real-time** data from our [GitHub repository](https://github.com/C21coastsh/ws-ut).
+  skipDeleteIssues: true
+  status-website:
+  theme: dark
   navbar:
     - title: Status
       href: /
