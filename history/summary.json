@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 540,
-    "timeDay": 540,
-    "timeWeek": 540,
-    "timeMonth": 540,
-    "timeYear": 540,
+    "time": 578,
+    "timeDay": 578,
+    "timeWeek": 578,
+    "timeMonth": 578,
+    "timeYear": 578,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.c21coasttocoast.com.ico",
     "slug": "c21-coastto-coast",
     "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "98.68%",
-    "uptimeYear": "98.68%",
-    "time": 1091,
-    "timeDay": 1091,
-    "timeWeek": 1091,
-    "timeMonth": 1091,
-    "timeYear": 1091,
-    "dailyMinutesDown": {
-      "2024-05-30": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1029,
+    "timeDay": 1029,
+    "timeWeek": 1029,
+    "timeMonth": 1029,
+    "timeYear": 1029,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fl Gulf Beach RE",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 770,
-    "timeDay": 770,
-    "timeWeek": 770,
-    "timeMonth": 770,
-    "timeYear": 770,
+    "time": 699,
+    "timeDay": 699,
+    "timeWeek": 699,
+    "timeMonth": 699,
+    "timeYear": 699,
     "dailyMinutesDown": {}
   }
 ]
