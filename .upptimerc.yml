@@ -20,11 +20,10 @@ status-website:
   introTitle: "**WebSite-Upptime** is the uptime monitor and status page for C21CtoC, powered by GitHub."
   introMessage: This status page which uses **real-time** data from our [GitHub repository](https://github.com/C21coastsh/ws-ut).
   skipDeleteIssues: true
-  status-website:
   theme: dark
   navbar:
     - title: Status
-      href: /
+      href: /ws-ut
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
