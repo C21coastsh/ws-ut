@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.c21coasttocoast.com.ico",
     "slug": "c21-coastto-coast",
     "status": "up",
-    "uptime": "94.45%",
+    "uptime": "94.49%",
     "uptimeDay": "96.07%",
     "uptimeWeek": "94.29%",
-    "uptimeMonth": "94.45%",
-    "uptimeYear": "94.45%",
+    "uptimeMonth": "94.49%",
+    "uptimeYear": "94.49%",
     "time": 1065,
     "timeDay": 735,
     "timeWeek": 1121,
@@ -58,7 +58,7 @@
     "url": "https://www.floridagulfbeachrealty.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.floridagulfbeachrealty.com.ico",
     "slug": "fl-gulf-beach-re",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 651,
     "timeMonth": 622,
     "timeYear": 622,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-18": 0
+    }
   }
 ]
