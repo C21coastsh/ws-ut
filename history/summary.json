@@ -22,12 +22,12 @@
     "url": "https://www.c21coasttocoast.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.c21coasttocoast.com.ico",
     "slug": "c21-coastto-coast",
-    "status": "up",
-    "uptime": "96.00%",
+    "status": "down",
+    "uptime": "96.06%",
     "uptimeDay": "86.73%",
     "uptimeWeek": "95.18%",
     "uptimeMonth": "93.58%",
-    "uptimeYear": "96.00%",
+    "uptimeYear": "96.06%",
     "time": 1112,
     "timeDay": 882,
     "timeWeek": 1158,
@@ -76,7 +76,7 @@
       "2024-06-22": 68,
       "2024-06-21": 50,
       "2024-06-20": 151,
-      "2024-06-19": 163
+      "2024-06-19": 102
     }
   },
   {
