@@ -86,9 +86,9 @@
     "url": "https://www.floridagulfbeachrealty.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.floridagulfbeachrealty.com.ico",
     "slug": "fl-gulf-beach-re",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -98,6 +98,7 @@
     "timeMonth": 607,
     "timeYear": 1165,
     "dailyMinutesDown": {
+      "2024-09-25": 0,
       "2024-08-16": 37
     }
   }
