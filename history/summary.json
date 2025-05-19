@@ -29,15 +29,15 @@
     "url": "https://www.c21coasttocoast.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.c21coasttocoast.com.ico",
     "slug": "c21-coastto-coast",
-    "status": "up",
-    "uptime": "98.64%",
-    "uptimeDay": "84.33%",
-    "uptimeWeek": "78.03%",
+    "status": "down",
+    "uptime": "98.66%",
+    "uptimeDay": "88.33%",
+    "uptimeWeek": "78.63%",
     "uptimeMonth": "88.19%",
-    "uptimeYear": "98.64%",
+    "uptimeYear": "98.66%",
     "time": 1295,
-    "timeDay": 818,
-    "timeWeek": 2124,
+    "timeDay": 744,
+    "timeWeek": 2164,
     "timeMonth": 2129,
     "timeYear": 1295,
     "dailyMinutesDown": {
@@ -83,8 +83,7 @@
       "2025-04-08": 173,
       "2025-04-07": 60,
       "2025-04-05": 57,
-      "2025-04-04": 54,
-      "2025-04-03": 60
+      "2025-04-04": 54
     }
   },
   {
