@@ -29,7 +29,7 @@
     "url": "https://www.c21coasttocoast.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.c21coasttocoast.com.ico",
     "slug": "c21-coastto-coast",
-    "status": "up",
+    "status": "down",
     "uptime": "98.56%",
     "uptimeDay": "88.97%",
     "uptimeWeek": "79.50%",
@@ -75,8 +75,7 @@
       "2025-04-25": 123,
       "2025-04-24": 180,
       "2025-04-23": 286,
-      "2025-04-22": 128,
-      "2025-04-21": 49
+      "2025-04-22": 128
     }
   },
   {
