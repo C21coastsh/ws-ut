@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/c21coasttocoast.mobi.ico",
     "slug": "vp-madonna",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -29,12 +29,12 @@
     "url": "https://www.c21coasttocoast.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.c21coasttocoast.com.ico",
     "slug": "c21-coastto-coast",
-    "status": "up",
-    "uptime": "98.60%",
-    "uptimeDay": "74.13%",
+    "status": "down",
+    "uptime": "98.62%",
+    "uptimeDay": "74.12%",
     "uptimeWeek": "75.54%",
-    "uptimeMonth": "82.42%",
-    "uptimeYear": "98.53%",
+    "uptimeMonth": "82.69%",
+    "uptimeYear": "98.56%",
     "time": 1416,
     "timeDay": 1999,
     "timeWeek": 2887,
@@ -63,8 +63,7 @@
       "2025-05-26": 52,
       "2025-05-25": 209,
       "2025-05-24": 338,
-      "2025-05-23": 446,
-      "2025-05-22": 121
+      "2025-05-23": 446
     }
   },
   {
