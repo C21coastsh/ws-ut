@@ -12,7 +12,7 @@ workflowSchedule:
   uptime: "0 * * * *"
 
 sites:
-  - name: VP - Madonna
+  - name: VPMadonna
     url: https://c21coasttocoast.mobi/MADONNASTEINLAGE
   - name: C21CoasttoCoast
     url: https://www.c21coasttocoast.com/
