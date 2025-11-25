@@ -31,7 +31,7 @@
     "url": "https://www.c21coasttocoast.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.c21coasttocoast.com.ico",
     "slug": "c21-coastto-coast",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
     "uptimeDay": "96.00%",
     "uptimeWeek": "94.14%",
@@ -41,7 +41,7 @@
     "timeDay": 974,
     "timeWeek": 2376,
     "timeMonth": 1888,
-    "timeYear": 1918,
+    "timeYear": 1919,
     "dailyMinutesDown": {
       "2025-11-24": 58,
       "2025-11-22": 60,
