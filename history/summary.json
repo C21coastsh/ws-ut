@@ -12,7 +12,7 @@
     "uptimeYear": "99.86%",
     "time": 463,
     "timeDay": 426,
-    "timeWeek": 461,
+    "timeWeek": 498,
     "timeMonth": 505,
     "timeYear": 473,
     "dailyMinutesDown": {
@@ -32,18 +32,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.c21coasttocoast.com.ico",
     "slug": "c21-coastto-coast",
     "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "72.61%",
-    "uptimeWeek": "82.55%",
-    "uptimeMonth": "87.62%",
-    "uptimeYear": "98.69%",
+    "uptime": "99.18%",
+    "uptimeDay": "84.48%",
+    "uptimeWeek": "82.65%",
+    "uptimeMonth": "87.64%",
+    "uptimeYear": "98.67%",
     "time": 1925,
     "timeDay": 3548,
-    "timeWeek": 2318,
+    "timeWeek": 2374,
     "timeMonth": 1966,
     "timeYear": 1994,
     "dailyMinutesDown": {
-      "2026-01-11": 357,
+      "2026-01-11": 347,
       "2026-01-10": 284,
       "2026-01-09": 124,
       "2026-01-08": 375,
@@ -83,7 +83,7 @@
       "2025-12-02": 245,
       "2025-12-01": 307,
       "2025-11-30": 113,
-      "2025-11-29": 60
+      "2025-11-29": 125
     }
   },
   {
@@ -98,8 +98,8 @@
     "uptimeMonth": "97.53%",
     "uptimeYear": "99.43%",
     "time": 762,
-    "timeDay": 640,
-    "timeWeek": 697,
+    "timeDay": 550,
+    "timeWeek": 723,
     "timeMonth": 674,
     "timeYear": 785,
     "dailyMinutesDown": {
