@@ -31,9 +31,9 @@
     "url": "https://www.c21coasttocoast.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.c21coasttocoast.com.ico",
     "slug": "c21-coastto-coast",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "84.13%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "84.12%",
     "uptimeWeek": "90.00%",
     "uptimeMonth": "87.72%",
     "uptimeYear": "98.68%",
@@ -84,7 +84,7 @@
       "2025-12-09": 57,
       "2025-12-07": 62,
       "2025-12-05": 55,
-      "2025-12-04": 228
+      "2025-12-04": 194
     }
   },
   {
@@ -94,12 +94,12 @@
     "slug": "fl-gulf-beach-re",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "91.32%",
+    "uptimeDay": "95.65%",
     "uptimeWeek": "97.60%",
     "uptimeMonth": "96.98%",
     "uptimeYear": "99.38%",
     "time": 761,
-    "timeDay": 550,
+    "timeDay": 608,
     "timeWeek": 634,
     "timeMonth": 668,
     "timeYear": 767,
