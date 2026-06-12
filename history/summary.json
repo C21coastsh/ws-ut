@@ -29,19 +29,19 @@
     "url": "https://www.c21coasttocoast.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.c21coasttocoast.com.ico",
     "slug": "c21-coastto-coast",
-    "status": "up",
-    "uptime": "95.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "59.17%",
-    "uptimeMonth": "56.12%",
-    "uptimeYear": "91.32%",
-    "time": 2243,
+    "status": "down",
+    "uptime": "95.75%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "59.37%",
+    "uptimeMonth": "56.73%",
+    "uptimeYear": "91.33%",
+    "time": 2244,
     "timeDay": 1167,
     "timeWeek": 2255,
-    "timeMonth": 3515,
-    "timeYear": 2239,
+    "timeMonth": 3456,
+    "timeYear": 2238,
     "dailyMinutesDown": {
-      "2026-02-04": 122,
+      "2026-02-04": 61,
       "2026-02-05": 234,
       "2026-02-08": 158,
       "2026-02-07": 29,
@@ -129,7 +129,8 @@
       "2026-06-08": 1014,
       "2026-06-09": 551,
       "2026-06-10": 806,
-      "2026-06-11": 15
+      "2026-06-11": 15,
+      "2026-06-12": 0
     }
   },
   {
@@ -137,15 +138,15 @@
     "url": "https://www.floridagulfbeachrealty.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.floridagulfbeachrealty.com.ico",
     "slug": "fl-gulf-beach-re",
-    "status": "down",
-    "uptime": "98.86%",
-    "uptimeDay": "83.59%",
-    "uptimeWeek": "91.65%",
-    "uptimeMonth": "98.03%",
-    "uptimeYear": "97.69%",
+    "status": "up",
+    "uptime": "98.83%",
+    "uptimeDay": "58.54%",
+    "uptimeWeek": "91.46%",
+    "uptimeMonth": "97.21%",
+    "uptimeYear": "97.62%",
     "time": 743,
-    "timeDay": 108,
-    "timeWeek": 550,
+    "timeDay": 356,
+    "timeWeek": 555,
     "timeMonth": 602,
     "timeYear": 727,
     "dailyMinutesDown": {
@@ -222,7 +223,7 @@
       "2026-05-08": 277,
       "2026-06-05": 363,
       "2026-06-08": 264,
-      "2026-06-12": 236
+      "2026-06-12": 597
     }
   }
 ]
