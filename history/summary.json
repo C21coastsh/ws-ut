@@ -32,9 +32,9 @@
     "status": "down",
     "uptime": "95.44%",
     "uptimeDay": "21.52%",
-    "uptimeWeek": "56.59%",
+    "uptimeWeek": "56.43%",
     "uptimeMonth": "51.72%",
-    "uptimeYear": "90.61%",
+    "uptimeYear": "90.60%",
     "time": 2262,
     "timeDay": 5727,
     "timeWeek": 3395,
@@ -130,7 +130,7 @@
       "2026-06-18": 16,
       "2026-06-19": 790,
       "2026-06-20": 1116,
-      "2026-06-21": 263
+      "2026-06-21": 280
     }
   },
   {
@@ -140,9 +140,9 @@
     "slug": "fl-gulf-beach-re",
     "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "97.57%",
-    "uptimeMonth": "96.65%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "97.41%",
+    "uptimeMonth": "96.61%",
     "uptimeYear": "97.57%",
     "time": 744,
     "timeDay": 427,
@@ -226,7 +226,7 @@
       "2026-06-12": 597,
       "2026-06-19": 32,
       "2026-06-18": 213,
-      "2026-06-21": 0
+      "2026-06-21": 16
     }
   }
 ]
