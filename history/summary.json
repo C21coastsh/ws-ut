@@ -30,9 +30,9 @@
     "slug": "c21-coastto-coast",
     "status": "down",
     "uptime": "95.27%",
-    "uptimeDay": "57.94%",
-    "uptimeWeek": "51.16%",
-    "uptimeMonth": "53.36%",
+    "uptimeDay": "57.68%",
+    "uptimeWeek": "51.13%",
+    "uptimeMonth": "53.35%",
     "uptimeYear": "89.92%",
     "time": 2324,
     "timeDay": 939,
@@ -122,7 +122,7 @@
       "2026-07-14": 609,
       "2026-07-15": 997,
       "2026-07-16": 606,
-      "2026-07-17": 0
+      "2026-07-17": 4
     }
   },
   {
