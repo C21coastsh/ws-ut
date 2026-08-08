@@ -31,13 +31,13 @@
     "status": "up",
     "uptime": "95.71%",
     "uptimeDay": "72.29%",
-    "uptimeWeek": "59.69%",
-    "uptimeMonth": "63.73%",
+    "uptimeWeek": "60.31%",
+    "uptimeMonth": "63.86%",
     "uptimeYear": "90.60%",
     "time": 2384,
     "timeDay": 1172,
-    "timeWeek": 4686,
-    "timeMonth": 3589,
+    "timeWeek": 4539,
+    "timeMonth": 3643,
     "timeYear": 2445,
     "dailyMinutesDown": {
       "2026-05-20": 342,
@@ -125,16 +125,16 @@
     "url": "https://www.floridagulfbeachrealty.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.floridagulfbeachrealty.com.ico",
     "slug": "fl-gulf-beach-re",
-    "status": "up",
+    "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.78%",
     "uptimeYear": "97.17%",
     "time": 722,
-    "timeDay": 481,
-    "timeWeek": 648,
-    "timeMonth": 636,
+    "timeDay": 364,
+    "timeWeek": 598,
+    "timeMonth": 626,
     "timeYear": 701,
     "dailyMinutesDown": {
       "2025-08-14": 63,
@@ -219,7 +219,8 @@
       "2026-07-06": 260,
       "2026-07-11": 291,
       "2026-07-22": 325,
-      "2026-07-30": 356
+      "2026-07-30": 356,
+      "2026-08-08": 0
     }
   }
 ]
