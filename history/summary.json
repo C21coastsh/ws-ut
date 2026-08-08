@@ -29,7 +29,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.c21coasttocoast.com.ico",
     "slug": "c21-coastto-coast",
     "status": "up",
-    "uptime": "95.71%",
+    "uptime": "95.72%",
     "uptimeDay": "72.29%",
     "uptimeWeek": "60.31%",
     "uptimeMonth": "63.86%",
@@ -125,17 +125,17 @@
     "url": "https://www.floridagulfbeachrealty.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.floridagulfbeachrealty.com.ico",
     "slug": "fl-gulf-beach-re",
-    "status": "down",
-    "uptime": "98.70%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.78%",
-    "uptimeYear": "97.17%",
+    "status": "up",
+    "uptime": "98.67%",
+    "uptimeDay": "75.36%",
+    "uptimeWeek": "96.48%",
+    "uptimeMonth": "96.97%",
+    "uptimeYear": "97.10%",
     "time": 722,
-    "timeDay": 364,
-    "timeWeek": 598,
-    "timeMonth": 626,
-    "timeYear": 701,
+    "timeDay": 435,
+    "timeWeek": 595,
+    "timeMonth": 625,
+    "timeYear": 700,
     "dailyMinutesDown": {
       "2025-08-14": 63,
       "2025-10-02": 60,
@@ -220,7 +220,7 @@
       "2026-07-11": 291,
       "2026-07-22": 325,
       "2026-07-30": 356,
-      "2026-08-08": 0
+      "2026-08-08": 355
     }
   }
 ]
